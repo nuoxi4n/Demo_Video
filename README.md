@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/nuoxian233/Demo_Video/refs/heads/main/hls/Merr
 
 https://cdn.jsdelivr.net/gh/nuoxian233/Demo_Video@refs/heads/main/hls/Merry_Christmas_Mr.Lawrence/Merry_Christmas_Mr.Lawrence.m3u8
 
-https://ghp.ci/https://raw.githubusercontent.com/nuoxian233/Demo_Video/refs/heads/main/hls/Merry_Christmas_Mr.Lawrence/Merry_Christmas_Mr.Lawrence.m3u8
+https://ghfast.top/https://raw.githubusercontent.com/nuoxian233/Demo_Video/refs/heads/main/hls/Merry_Christmas_Mr.Lawrence/Merry_Christmas_Mr.Lawrence.m3u8
 
 ### flv/RenJiPengYou
 
@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/nuoxian233/Demo_Video/refs/heads/main/flv/RenJ
 
 https://cdn.jsdelivr.net/gh/nuoxian233/Demo_Video@refs/heads/main/flv/RenJiPengYou.flv
 
-https://ghp.ci/https://raw.githubusercontent.com/nuoxian233/Demo_Video/refs/heads/main/flv/RenJiPengYou.flv
+https://ghfast.top/https://raw.githubusercontent.com/nuoxian233/Demo_Video/refs/heads/main/flv/RenJiPengYou.flv
 
 ### mp4/No_Doubt
 
@@ -28,4 +28,4 @@ https://raw.githubusercontent.com/nuoxian233/Demo_Video/refs/heads/main/mp4/No_D
 
 https://cdn.jsdelivr.net/gh/nuoxian233/Demo_Video@refs/heads/main/mp4/No_Doubt.mp4
 
-https://ghp.ci/https://raw.githubusercontent.com/nuoxian233/Demo_Video/refs/heads/main/mp4/No_Doubt.mp4
+https://ghfast.top/https://raw.githubusercontent.com/nuoxian233/Demo_Video/refs/heads/main/mp4/No_Doubt.mp4
